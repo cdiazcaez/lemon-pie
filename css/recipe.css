@@ -1,0 +1,65 @@
+/* Christian Diaz @02869687
+CSCI 452/553: Network and Web Programming
+
+file:recipe.css
+This file contain an CSS syntax that to 
+describe the sytle and how the HTML 
+elements should be displayed in 
+the pie.html file*/
+
+
+body{
+    background-image: url('../img/silverware.jpg');   
+    color: #404040;
+    font-size: 11pt ;
+    font-family: "Georgia",serif;
+}
+#pie_description{
+    list-style: none;
+    padding-left: 0pt;    
+}
+#main-heading{
+    text-align: center;
+}
+#main-heading span{
+    font-weight: bold;
+    font-size: 22pt;
+} 
+h2 span{
+    letter-spacing: 0.25em;
+    background-color:#F0F0F0;
+    color: #A4A400;
+    font-family: "Lucida Sans Unicode","Lucida Grande", sans-serif;
+    text-decoration: underline;
+    font-size: 18pt;    /*should be */
+    font-weight: normal;
+    text-align: left;   
+}
+.top-border .panel-heading{
+    border-top-style: solid;
+    border-top-width: thin;
+}
+blockquote{
+    font-style: italic;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #FFFFA8;
+}
+.pie_bullet{
+    list-style-image: url('../img/pie_icon.gif');
+}
+a{
+    color:#A4A400; /*link color*/
+}
+pre{               /*copyright*/
+    text-align: left;
+    font-family: "Courier New", Courier, monospace;
+}
+
+li span{       /*appear as a tooltip for tbsp and tsp*/
+    text-decoration: underline;
+    border-bottom: 1px dotted;
+}
