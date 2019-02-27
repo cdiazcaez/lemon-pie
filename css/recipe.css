@@ -58,3 +58,8 @@ pre{               /*copyright*/
     text-align: left;
     font-family: "Courier New", Courier, monospace;
 }
+
+li span{       /*appear as a tooltip for tbsp and tsp*/
+    text-decoration: underline;
+    border-bottom: 1px dotted;
+}
