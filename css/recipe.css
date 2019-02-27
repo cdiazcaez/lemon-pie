@@ -34,3 +34,17 @@ h2 span{
     font-size: 18pt;    /*should be */
     font-weight: normal;
     text-align: left;   
+}
+.top-border .panel-heading{
+    border-top-style: solid;
+    border-top-width: thin;
+}
+blockquote{
+    font-style: italic;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #FFFFA8;
+}
