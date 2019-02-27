@@ -48,3 +48,13 @@ blockquote{
     margin-right: 40px;
     background-color: #FFFFA8;
 }
+.pie_bullet{
+    list-style-image: url('../img/pie_icon.gif');
+}
+a{
+    color:#A4A400; /*link color*/
+}
+pre{               /*copyright*/
+    text-align: left;
+    font-family: "Courier New", Courier, monospace;
+}
