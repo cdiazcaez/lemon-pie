@@ -9,3 +9,11 @@ the index.html file*/
 
 body{
     background-image: url('../img/benefits-of-lime.jpg');
+}
+#main-box{
+    border: 2px solid green;
+    margin-bottom: 25px;
+    background-color: #d0e9c6;
+    margin-left: 30%;
+    margin-right: 30%;
+}
