@@ -64,3 +64,6 @@ li span{       /*appear as a tooltip for tbsp and tsp*/
     text-decoration: underline;
     border-bottom: 1px dotted;
 }
+#strike{
+  text-decoration: line-through;
+}
