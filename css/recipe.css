@@ -23,7 +23,7 @@ body{
 }
 #main-heading span{
     font-weight: bold;
-    font-size: 22pt;
+    font-size: 22pt; 
 } 
 h2 span{
     letter-spacing: 0.25em;
@@ -58,6 +58,7 @@ pre{               /*copyright*/
     text-align: left;
     font-family: "Courier New", Courier, monospace;
 }
+
 
 li span{       /*appear as a tooltip for tbsp and tsp*/
     text-decoration: underline;
