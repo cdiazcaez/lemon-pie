@@ -25,3 +25,12 @@ body{
     font-weight: bold;
     font-size: 22pt;
 } 
+h2 span{
+    letter-spacing: 0.25em;
+    background-color:#F0F0F0;
+    color: #A4A400;
+    font-family: "Lucida Sans Unicode","Lucida Grande", sans-serif;
+    text-decoration: underline;
+    font-size: 18pt;    /*should be */
+    font-weight: normal;
+    text-align: left;   
