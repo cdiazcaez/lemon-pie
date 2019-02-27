@@ -20,3 +20,8 @@ body{
 }
 #main-heading{
     text-align: center;
+}
+#main-heading span{
+    font-weight: bold;
+    font-size: 22pt;
+} 
