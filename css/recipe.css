@@ -1,0 +1,16 @@
+/* Christian Diaz @02869687
+CSCI 452/553: Network and Web Programming
+
+file:recipe.css
+This file contain an CSS syntax that to 
+describe the sytle and how the HTML 
+elements should be displayed in 
+the pie.html file*/
+
+
+body{
+    background-image: url('../img/silverware.jpg');   
+    color: #404040;
+    font-size: 11pt ;
+    font-family: "Georgia",serif;
+}
