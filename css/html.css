@@ -1,0 +1,11 @@
+/* Christian Diaz @02869687
+CSCI 452/553: Network and Web Programming
+
+file:html.css
+This file contain an CSS syntax that to 
+describe the sytle and how the HTML 
+elements should be displayed in 
+the index.html file*/
+
+body{
+    background-image: url('../img/benefits-of-lime.jpg');
