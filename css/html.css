@@ -10,6 +10,21 @@ the index.html file*/
 body{
     background-image: url('../img/benefits-of-lime.jpg');
 }
+.jumbotron {
+    margin-top: 30px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.25em;
+    text-decoration: underline;
+    font-family: "Lucida Sans Unicode","Lucida Grande", sans-serif;
+    color: #A4A400 ;
+    font-size: large;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+span{
+     background-color:#F0F0F0;
+}
 #main-box{
     border: 2px solid green;
     margin-bottom: 25px;
@@ -46,4 +61,4 @@ h3 span{
 #button:hover {
     padding: 50px 80px;
     background: slateblue;
-}
+    }
